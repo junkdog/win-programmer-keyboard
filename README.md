@@ -18,7 +18,7 @@ the registry hack: `caps_lock_to_control.reg`
 
 #### On Linux / where xmodmap is available
 
-```
+```bash
 # copied from my .bashrc
 if hash xmodmap &> /dev/null ; then
     xmodmap -e "keysym ISO_Level3_Shift = Mode_switch"
