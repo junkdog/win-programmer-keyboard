@@ -9,7 +9,8 @@ used to create the layout and compile the installation package.
 Run `setup.exe` and, optionally, `caps_lock_to_control.reg`. Restart the computer (might suffice
 to logout/login, I haven't tried it).
 
-The keyboard layout  should be automatically added to `Control Panel / Language / Language Options / Input Method`.
+The keyboard layout  should be automatically added to `Control Panel / Language / Language
+Options / Input Method`.
 If its not, manually add `United States-Junkdog`.
 
 
