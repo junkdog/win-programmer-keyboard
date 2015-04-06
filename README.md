@@ -44,7 +44,7 @@ What originally started my frustration. Note that on linux, your desktop environ
 of choice usually has the option of mapping the CapsLock key to CTRL, without the
 need of going through xmodmap - the snippet below doesn't remap CapsLock.
 
-```
+```bash
 # copied from my .bashrc
 if hash xmodmap &> /dev/null ; then
     xmodmap -e "keysym ISO_Level3_Shift = Mode_switch"
