@@ -10,8 +10,7 @@ Run `setup.exe` and, optionally, `caps_lock_to_control.reg`. Restart the compute
 to logout/login, I haven't tried it).
 
 The keyboard layout  should be automatically added to `Control Panel / Language / Language
-Options / Input Method`.
-If its not, manually add `United States-Junkdog`.
+Options / Input Method`. If its not, manually add `United States-Junkdog`.
 
 
 ## Changed keys
