@@ -38,6 +38,7 @@ we can help it by nudging it in the right direction via a registry hack:
 - [AltDrag](https://stefansundin.github.io/altdrag/) emulates X11's ALT+LMB to move and ALT+RMB
   to resize windows. It also has a few other tweaks.
 - [Launchy](http://www.launchy.net/), slick application launcher.
+- [GoToWindow](https://github.com/christianrondeau/GoToWindow) - keyboard-driven ALT-TAB replacement.
 
 ## On Linux / where xmodmap is available
 What originally started my frustration. Note that on linux, your desktop environment
