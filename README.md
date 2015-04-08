@@ -62,4 +62,4 @@ fi
 
 ## On OSX
 [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=ukelele) can remap
-any keys, whereas most other utilities only work on a subset.
+any key, whereas most other utilities only work on a subset.
