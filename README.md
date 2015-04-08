@@ -10,7 +10,7 @@ Run `setup.exe` and, optionally, `caps_lock_to_control.reg`. Restart the compute
 to logout/login, I haven't tried it).
 
 The keyboard layout  should be automatically added to `Control Panel / Language / Language
-Options / Input Method`. If its not, manually add `United States-Junkdog`.
+Options / Input Method`. If it's not, manually add `United States-Junkdog`.
 
 
 ## Changed keys
@@ -60,3 +60,6 @@ if hash xmodmap &> /dev/null ; then
 fi
 ```
 
+## On OSX
+[Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=ukelele) can remap
+any keys, whereas most other utilities only work on a subset.
